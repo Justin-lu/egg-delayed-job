@@ -1,5 +1,7 @@
 # egg-delayed-job
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Justin-lu/egg-delayed-job.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
 [![Test coverage][codecov-image]][codecov-url]
